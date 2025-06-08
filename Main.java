@@ -25,10 +25,9 @@ public class Main {
         statek1.przeniesKontener(statek1, statek2, k2);
         statek1.zaladujKontener(k5);
         statek1.getInfo();
-        System.out.println("#########################################");
-        System.out.println("#########################################");
-        System.out.println("#########################################");
-        System.out.println("#########################################");
+        System.out.println("                                 ");
+        System.out.println("                                 ");
+
         statek2.getInfo();
 
     }
